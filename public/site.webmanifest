@@ -1,0 +1,8 @@
+{
+  "name": "AS Webmarketings",
+  "short_name": "AS Web",
+  "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }],
+  "theme_color": "#15261b",
+  "background_color": "#15261b",
+  "display": "standalone"
+}
